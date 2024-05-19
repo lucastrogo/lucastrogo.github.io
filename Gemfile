@@ -13,3 +13,5 @@ gem 'jekyll-seo-tag', '~> 2.8'
 
 gem 'jekyll-default-layout', '~> 0.1.5'
 
+gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
+
