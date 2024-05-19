@@ -11,4 +11,5 @@ aux_links:
 plugins:
   - jekyll-default-layout
 
+# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
