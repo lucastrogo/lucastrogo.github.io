@@ -9,7 +9,9 @@ aux_links:
 
 
 plugins:
-  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
