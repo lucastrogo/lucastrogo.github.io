@@ -5,7 +5,7 @@ gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
 gem 'just-the-docs', '~> 0.8.2'
 
-gem 'sass-embedded', '~> 1.77', '>= 1.77.2'
+gem 'sass-embedded', '~> 1.77'
 
 gem 'jekyll-include-cache', '~> 0.2.1'
 
